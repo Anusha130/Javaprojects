@@ -1,0 +1,9 @@
+com\java\OnetoOneMappingApplication.class
+com\java\Service\PanNumService.class
+com\java\Service\PersonService.class
+com\java\Entity\PanNum.class
+com\java\Controller\PersonController.class
+com\java\Repository\PersonRepository.class
+com\java\Controller\PanNumController.class
+com\java\Repository\PanNumRepository.class
+com\java\Entity\Person.class
